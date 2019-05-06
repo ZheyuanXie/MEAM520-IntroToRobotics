@@ -1,0 +1,20 @@
+# Dense environment map
+#Boundary (This parameter does not affect the visualization)
+boundary -469.9000 -469.9000 -355.6000  469.9000  469.9000   584.2000
+#############################################################
+
+# usage:
+# element x_min y_min z_min x_max y_max z_max
+#NOTE: DEFINE YOUR MEASUREMNETS IN mm
+
+
+# 2 blocks suspended from top/attached
+block 38.1000   88.9000  330.20  165.1000  215.9000  469.9000
+block 76.2000  -76.2000  279.40  165.1000  -50.8000  469.9000
+
+
+# Vertical block
+block  288.90 -101.6 177.8 469.9 -76.2 431.9
+
+# Horizontal blocks
+block 215.9000 -165.1000  152.4000  469.9000  88.9000  177.8000
