@@ -1,0 +1,18 @@
+# Narrow passage map
+#Boundary (This parameter does not affect the visualization)
+boundary -469.9000 -469.9000 -355.6000  469.9000  469.9000   584.2000
+#############################################################
+
+# usage:
+# element x_min y_min z_min x_max y_max z_max
+#NOTE: DEFINE YOUR MEASUREMNETS IN mm
+
+#Inverted u design 
+block  215.9000  -38.1000   292.1000 469.9000   215.9000 317.5000
+block  215.9000  -292.1000  292.1000 469.9000  -38.1000  317.5000
+
+
+# 3 blocks helping form narrow passage
+block 215.9000  88.9000  -88.9000  469.9000  114.3000  165.1000
+block 215.9000 -292.1000  38.1000  469.9000 -266.7000 292.1000
+block 215.9000 -165.1000  38.1000  469.9000  88.9000  63.5000

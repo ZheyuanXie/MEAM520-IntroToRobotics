@@ -1,0 +1,16 @@
+# Sparse map
+#Boundary (This parameter does not affect the visualization)
+boundary -469.9000 -469.9000 -355.6000  469.9000  469.9000   584.2000
+#############################################################
+
+# usage:
+# element x_min y_min z_min x_max y_max z_max
+#NOTE: DEFINE YOUR MEASUREMNETS IN mm
+
+
+# Horizontal blocks
+block 215.9000 -165.1000  152.4000  469.9000  88.9000  177.8000
+
+
+# Vertical block
+block  215.90 -101.6 177.8 469.9 -76.2 431.9
